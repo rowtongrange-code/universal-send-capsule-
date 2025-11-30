@@ -1,0 +1,7 @@
+# USC PWA — Phase 1
+
+## Overview
+This PWA provides a mobile-first UI for creating encrypted capsules and opening them. It expects a backend at `/v1` with endpoints for capsule creation and download.
+
+## Local dev (Termux on Android)
+1. Install Node (Termux pkg insta
